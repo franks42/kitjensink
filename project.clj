@@ -11,6 +11,8 @@
   	[org.clojure/core.memoize "0.5.1"]
   	[org.clojure/core.match "0.2.0-alpha9"]
   	[fs "1.1.2"]
+  	[hiccup "0.3.8"]
+  	[com.cemerick/pomegranate "0.0.4"]
   	[marginalia "0.7.0-SNAPSHOT"]
   	[lein-noir "1.2.1"]
   	[pinot "0.1.1-SNAPSHOT"]
