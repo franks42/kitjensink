@@ -19,6 +19,7 @@
   	[ns-tracker "0.1.1"]
   	[codox "0.3.4"]
   	[compojure "1.0.1"]
+  	[useful "0.7.6"]
   	;[enlive "1.2.0-alpha1"]
   	;[core.logic "0.6.8-SNAPSHOT"]
   	;[algo.generic "0.1.1-SNAPSHOT"]
